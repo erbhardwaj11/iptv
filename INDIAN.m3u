@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures	
@@ -557,7 +558,7 @@ http://90.154.220.182:8001/1:0:1:15:5:1:1863167:0:0:0:
 #EXTINF:-1,History Channel HD
 http://90.154.220.182:8001/1:0:1:D0:5:1:1863167:0:0:0:
 
-#EXTINF:0,WBTV – Warner Bros Television
+#EXTINF:0,WBTV Â– Warner Bros Television
 
 http://103.13.228.157/streamlink.m3u8?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
 
